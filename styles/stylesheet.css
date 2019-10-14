@@ -1,0 +1,17 @@
+h1{
+  font-weight: bold;
+  font-size: 21px
+}
+
+p{
+  font-size: 14px
+}
+
+a[href="https://www.duke.edu/"]{
+  color: green;
+  text-decoration: underline;
+}
+
+a[href="https://www.duke.edu/"]:hover {
+  text-decoration: none;
+}
